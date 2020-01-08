@@ -1,0 +1,1 @@
+Sample code provided for bug https://github.com/openapi4j/openapi4j/issues/28
