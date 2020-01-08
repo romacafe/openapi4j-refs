@@ -1,0 +1,6 @@
+apply plugin: 'java'
+
+dependencies {
+    implementation 'org.openapi4j:openapi-parser:0.5'
+    testImplementation 'junit:junit:4.12'
+}
